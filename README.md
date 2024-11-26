@@ -31,8 +31,8 @@ This project is a fully functional Role-Based Access Control (RBAC) system built
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rbac-system.git
-   cd rbac-system
+   git clone https://github.com/yourusername/rbac_project.git
+   cd rbac_project
 
 ## License
 This project is licensed under the MIT License.
