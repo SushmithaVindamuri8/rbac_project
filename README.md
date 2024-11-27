@@ -5,8 +5,8 @@ This project is a fully functional Role-Based Access Control (RBAC) system built
 ## Features
 
 - **Role Management**:
-  - Admin: Can manage roles for all users except other Admins.
-  - Moderator: Can manage roles for regular users.
+  - Admin: Can manage roles for all users except for their own.
+  - Moderator: Basic access.
   - User: Basic access.
 
 - **Responsive UI**:
@@ -31,7 +31,7 @@ This project is a fully functional Role-Based Access Control (RBAC) system built
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rbac_project.git
+   git clone https://github.com/SushmithaVindamuri8/rbac_project.git
    cd rbac_project
 
 ## License
